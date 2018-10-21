@@ -1,0 +1,26 @@
+{
+  "name": "monaco-language-processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matatsuna/monaco-language-processing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matatsuna/monaco-language-processing/issues"
+  },
+  "homepage": "https://github.com/matatsuna/monaco-language-processing#readme",
+  "dependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
