@@ -12,10 +12,41 @@ let tmpjson = tmp.map((a) => {
     };
 })
 // console.log(tmpjson);
-fs.writeFile('./tmp.json', JSON.stringify(tmpjson));
-
+// fs.writeFile('./tmp.json', JSON.stringify(tmpjson));
+/*
 tmp.forEach((a) => {
     const text = a + " (${0});\n";
     const filepath = './Function/pde/' + a + '.pde';
     fs.writeFile(filepath, text);
 });
+*/
+let classtmp = [
+    "ArrayList"
+    , "DoubleDict"
+    , "DoubleList"
+    , "FloatDict"
+    , "FloatList"
+    , "HashMap"
+    , "IntDict"
+    , "IntList"
+    , "JSONArray"
+    , "JSONObject"
+    , "LongDict"
+    , "LongList"
+    , "Object"
+    , "String"
+    , "StringDict"
+    , "StringList"
+    , "Table"
+    , "TableRow"
+    , "XML"
+];
+classtmp = classtmp.map((a) => {
+    return {
+        "label": a,
+        "kind": "classKind",
+        "documentation": "",
+        "insertText": a
+    };
+});
+console.log(classtmp);
