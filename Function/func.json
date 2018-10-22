@@ -130,5 +130,227 @@
         "kind": 2,
         "documentation": "",
         "insertText": "smooth"
+    },
+    {
+        "label": "binary()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "binary"
+    },
+    {
+        "label": "boolean()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "boolean"
+    },
+    {
+        "label": "byte()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "byte"
+    },
+    {
+        "label": "char()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "char"
+    },
+    {
+        "label": "floar()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "float"
+    },
+    {
+        "label": "hex()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "hex"
+    },
+    {
+        "label": "int()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "int"
+    },
+    {
+        "label": "str()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "str"
+    },
+    {
+        "label": "unbinary()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "unbinary"
+    },
+    {
+        "label": "unhex()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "unhex"
+    },
+    {
+        "label": "join()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "join"
+    },
+    {
+        "label": "match()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "match"
+    },
+    {
+        "label": "matchAll()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "matchAll"
+    },
+    {
+        "label": "nf()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "nf"
+    },
+    {
+        "label": "nfc()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "nfc"
+    },
+    {
+        "label": "nfp()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "nfp"
+    },
+    {
+        "label": "nfs()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "nfs"
+    },
+    {
+        "label": "split()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "split"
+    },
+    {
+        "label": "splitTokens()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "splitTokens"
+    },
+    {
+        "label": "trim()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "trim"
+    },
+    {
+        "label": "append()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "append"
+    },
+    {
+        "label": "arrayCopy()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "arrayCopy"
+    },
+    {
+        "label": "concat()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "concat"
+    },
+    {
+        "label": "expand()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "expand"
+    },
+    {
+        "label": "reverse()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "reverse"
+    },
+    {
+        "label": "shorten()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "shorten"
+    },
+    {
+        "label": "sort()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "sort"
+    },
+    {
+        "label": "splice()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "splice"
+    },
+    {
+        "label": "subset()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "subset"
+    },
+    {
+        "label": "for()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "for"
+    },
+    {
+        "label": "while()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "while"
+    },
+    {
+        "label": "if()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "if"
+    },
+    {
+        "label": "else",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "else"
+    },
+    {
+        "label": "switch()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "while"
+    },
+    {
+        "label": "case",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "case"
+    },
+    {
+        "label": "default",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "default"
+    },
+    {
+        "label": "continue",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "continue"
     }
 ]
