@@ -1,0 +1,1 @@
+printCamera (${0});

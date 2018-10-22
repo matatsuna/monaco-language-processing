@@ -1,0 +1,1 @@
+lightSpecular (${0});

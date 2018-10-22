@@ -1,0 +1,1 @@
+loadStrings (${0});

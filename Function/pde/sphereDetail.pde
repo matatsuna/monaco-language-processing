@@ -1,0 +1,1 @@
+sphereDetail (${0});

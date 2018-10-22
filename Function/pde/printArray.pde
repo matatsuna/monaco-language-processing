@@ -1,0 +1,1 @@
+printArray (${0});

@@ -1,0 +1,1 @@
+saveStrings (${0});

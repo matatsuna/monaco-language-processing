@@ -1,0 +1,1 @@
+strokeJoin (${0});

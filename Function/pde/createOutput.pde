@@ -1,0 +1,1 @@
+createOutput (${0});

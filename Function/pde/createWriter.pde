@@ -1,0 +1,1 @@
+createWriter (${0});

@@ -1,0 +1,1 @@
+beginCamera (${0});

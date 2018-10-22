@@ -1,0 +1,1 @@
+strokeWeight (${0});

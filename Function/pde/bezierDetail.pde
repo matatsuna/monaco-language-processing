@@ -1,0 +1,1 @@
+bezierDetail (${0});

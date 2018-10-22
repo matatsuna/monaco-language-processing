@@ -5,7 +5,7 @@ let tmp = [
 ]
 let tmpjson = tmp.map((a) => {
     return {
-        "label": a,
+        "label": a + "()",
         "kind": 2,
         "documentation": "",
         "insertText": a
@@ -14,3 +14,8 @@ let tmpjson = tmp.map((a) => {
 // console.log(tmpjson);
 fs.writeFile('./tmp.json', JSON.stringify(tmpjson));
 
+tmp.forEach((a) => {
+    const text = a + " (${0});\n";
+    const filepath = './Function/pde/' + a + '.pde';
+    fs.writeFile(filepath, text);
+});

@@ -1,0 +1,1 @@
+bezierPoint (${0});

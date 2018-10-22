@@ -1,0 +1,1 @@
+createGraphics (${0});

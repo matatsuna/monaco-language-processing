@@ -354,1249 +354,1249 @@
         "insertText": "continue"
     },
     {
-        "label": "createShape",
+        "label": "createShape()",
         "kind": 2,
         "documentation": "",
         "insertText": "createShape"
     },
     {
-        "label": "loadShape",
+        "label": "loadShape()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadShape"
     },
     {
-        "label": "arc",
+        "label": "arc()",
         "kind": 2,
         "documentation": "",
         "insertText": "arc"
     },
     {
-        "label": "ellipse",
+        "label": "ellipse()",
         "kind": 2,
         "documentation": "",
         "insertText": "ellipse"
     },
     {
-        "label": "line",
+        "label": "line()",
         "kind": 2,
         "documentation": "",
         "insertText": "line"
     },
     {
-        "label": "point",
+        "label": "point()",
         "kind": 2,
         "documentation": "",
         "insertText": "point"
     },
     {
-        "label": "quad",
+        "label": "quad()",
         "kind": 2,
         "documentation": "",
         "insertText": "quad"
     },
     {
-        "label": "rect",
+        "label": "rect()",
         "kind": 2,
         "documentation": "",
         "insertText": "rect"
     },
     {
-        "label": "triangle",
+        "label": "triangle()",
         "kind": 2,
         "documentation": "",
         "insertText": "triangle"
     },
     {
-        "label": "bezier",
+        "label": "bezier()",
         "kind": 2,
         "documentation": "",
         "insertText": "bezier"
     },
     {
-        "label": "bezierDetail",
+        "label": "bezierDetail()",
         "kind": 2,
         "documentation": "",
         "insertText": "bezierDetail"
     },
     {
-        "label": "bezierPoint",
+        "label": "bezierPoint()",
         "kind": 2,
         "documentation": "",
         "insertText": "bezierPoint"
     },
     {
-        "label": "bezierTangent",
+        "label": "bezierTangent()",
         "kind": 2,
         "documentation": "",
         "insertText": "bezierTangent"
     },
     {
-        "label": "curve",
+        "label": "curve()",
         "kind": 2,
         "documentation": "",
         "insertText": "curve"
     },
     {
-        "label": "curveDetail",
+        "label": "curveDetail()",
         "kind": 2,
         "documentation": "",
         "insertText": "curveDetail"
     },
     {
-        "label": "curvePoint",
+        "label": "curvePoint()",
         "kind": 2,
         "documentation": "",
         "insertText": "curvePoint"
     },
     {
-        "label": "curveTangent",
+        "label": "curveTangent()",
         "kind": 2,
         "documentation": "",
         "insertText": "curveTangent"
     },
     {
-        "label": "curveTightness",
+        "label": "curveTightness()",
         "kind": 2,
         "documentation": "",
         "insertText": "curveTightness"
     },
     {
-        "label": "box",
+        "label": "box()",
         "kind": 2,
         "documentation": "",
         "insertText": "box"
     },
     {
-        "label": "sphere",
+        "label": "sphere()",
         "kind": 2,
         "documentation": "",
         "insertText": "sphere"
     },
     {
-        "label": "sphereDetail",
+        "label": "sphereDetail()",
         "kind": 2,
         "documentation": "",
         "insertText": "sphereDetail"
     },
     {
-        "label": "ellipseMode",
+        "label": "ellipseMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "ellipseMode"
     },
     {
-        "label": "rectMode",
+        "label": "rectMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "rectMode"
     },
     {
-        "label": "strokeCap",
+        "label": "strokeCap()",
         "kind": 2,
         "documentation": "",
         "insertText": "strokeCap"
     },
     {
-        "label": "strokeJoin",
+        "label": "strokeJoin()",
         "kind": 2,
         "documentation": "",
         "insertText": "strokeJoin"
     },
     {
-        "label": "strokeWeight",
+        "label": "strokeWeight()",
         "kind": 2,
         "documentation": "",
         "insertText": "strokeWeight"
     },
     {
-        "label": "beginContour",
+        "label": "beginContour()",
         "kind": 2,
         "documentation": "",
         "insertText": "beginContour"
     },
     {
-        "label": "beginShape",
+        "label": "beginShape()",
         "kind": 2,
         "documentation": "",
         "insertText": "beginShape"
     },
     {
-        "label": "bezierVertex",
+        "label": "bezierVertex()",
         "kind": 2,
         "documentation": "",
         "insertText": "bezierVertex"
     },
     {
-        "label": "curveVertex",
+        "label": "curveVertex()",
         "kind": 2,
         "documentation": "",
         "insertText": "curveVertex"
     },
     {
-        "label": "endContour",
+        "label": "endContour()",
         "kind": 2,
         "documentation": "",
         "insertText": "endContour"
     },
     {
-        "label": "endShape",
+        "label": "endShape()",
         "kind": 2,
         "documentation": "",
         "insertText": "endShape"
     },
     {
-        "label": "quadraticVertex",
+        "label": "quadraticVertex()",
         "kind": 2,
         "documentation": "",
         "insertText": "quadraticVertex"
     },
     {
-        "label": "vertex",
+        "label": "vertex()",
         "kind": 2,
         "documentation": "",
         "insertText": "vertex"
     },
     {
-        "label": "shape",
+        "label": "shape()",
         "kind": 2,
         "documentation": "",
         "insertText": "shape"
     },
     {
-        "label": "shapeMode",
+        "label": "shapeMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "shapeMode"
     },
     {
-        "label": "mouseClicked",
+        "label": "mouseClicked()",
         "kind": 2,
         "documentation": "",
         "insertText": "mouseClicked"
     },
     {
-        "label": "mouseDragged",
+        "label": "mouseDragged()",
         "kind": 2,
         "documentation": "",
         "insertText": "mouseDragged"
     },
     {
-        "label": "mouseMoved",
+        "label": "mouseMoved()",
         "kind": 2,
         "documentation": "",
         "insertText": "mouseMoved"
     },
     {
-        "label": "mousePressed",
+        "label": "mousePressed()",
         "kind": 2,
         "documentation": "",
         "insertText": "mousePressed"
     },
     {
-        "label": "mouseReleased",
+        "label": "mouseReleased()",
         "kind": 2,
         "documentation": "",
         "insertText": "mouseReleased"
     },
     {
-        "label": "mouseWheel",
+        "label": "mouseWheel()",
         "kind": 2,
         "documentation": "",
         "insertText": "mouseWheel"
     },
     {
-        "label": "keyPressed",
+        "label": "keyPressed()",
         "kind": 2,
         "documentation": "",
         "insertText": "keyPressed"
     },
     {
-        "label": "keyReleased",
+        "label": "keyReleased()",
         "kind": 2,
         "documentation": "",
         "insertText": "keyReleased"
     },
     {
-        "label": "keyTyped",
+        "label": "keyTyped()",
         "kind": 2,
         "documentation": "",
         "insertText": "keyTyped"
     },
     {
-        "label": "createInput",
+        "label": "createInput()",
         "kind": 2,
         "documentation": "",
         "insertText": "createInput"
     },
     {
-        "label": "createReader",
+        "label": "createReader()",
         "kind": 2,
         "documentation": "",
         "insertText": "createReader"
     },
     {
-        "label": "launch",
+        "label": "launch()",
         "kind": 2,
         "documentation": "",
         "insertText": "launch"
     },
     {
-        "label": "loadBytes",
+        "label": "loadBytes()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadBytes"
     },
     {
-        "label": "loadJSONArray",
+        "label": "loadJSONArray()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadJSONArray"
     },
     {
-        "label": "loadJSONObject",
+        "label": "loadJSONObject()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadJSONObject"
     },
     {
-        "label": "loadStrings",
+        "label": "loadStrings()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadStrings"
     },
     {
-        "label": "loadTable",
+        "label": "loadTable()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadTable"
     },
     {
-        "label": "loadXML",
+        "label": "loadXML()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadXML"
     },
     {
-        "label": "parseJSONArray",
+        "label": "parseJSONArray()",
         "kind": 2,
         "documentation": "",
         "insertText": "parseJSONArray"
     },
     {
-        "label": "parseJSONObject",
+        "label": "parseJSONObject()",
         "kind": 2,
         "documentation": "",
         "insertText": "parseJSONObject"
     },
     {
-        "label": "parseXML",
+        "label": "parseXML()",
         "kind": 2,
         "documentation": "",
         "insertText": "parseXML"
     },
     {
-        "label": "selectFolder",
+        "label": "selectFolder()",
         "kind": 2,
         "documentation": "",
         "insertText": "selectFolder"
     },
     {
-        "label": "selectInput",
+        "label": "selectInput()",
         "kind": 2,
         "documentation": "",
         "insertText": "selectInput"
     },
     {
-        "label": "day",
+        "label": "day()",
         "kind": 2,
         "documentation": "",
         "insertText": "day"
     },
     {
-        "label": "hour",
+        "label": "hour()",
         "kind": 2,
         "documentation": "",
         "insertText": "hour"
     },
     {
-        "label": "millis",
+        "label": "millis()",
         "kind": 2,
         "documentation": "",
         "insertText": "millis"
     },
     {
-        "label": "minute",
+        "label": "minute()",
         "kind": 2,
         "documentation": "",
         "insertText": "minute"
     },
     {
-        "label": "month",
+        "label": "month()",
         "kind": 2,
         "documentation": "",
         "insertText": "month"
     },
     {
-        "label": "second",
+        "label": "second()",
         "kind": 2,
         "documentation": "",
         "insertText": "second"
     },
     {
-        "label": "year",
+        "label": "year()",
         "kind": 2,
         "documentation": "",
         "insertText": "year"
     },
     {
-        "label": "print",
+        "label": "print()",
         "kind": 2,
         "documentation": "",
         "insertText": "print"
     },
     {
-        "label": "printArray",
+        "label": "printArray()",
         "kind": 2,
         "documentation": "",
         "insertText": "printArray"
     },
     {
-        "label": "println",
+        "label": "println()",
         "kind": 2,
         "documentation": "",
         "insertText": "println"
     },
     {
-        "label": "save",
+        "label": "save()",
         "kind": 2,
         "documentation": "",
         "insertText": "save"
     },
     {
-        "label": "saveFrame",
+        "label": "saveFrame()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveFrame"
     },
     {
-        "label": "beginRaw",
+        "label": "beginRaw()",
         "kind": 2,
         "documentation": "",
         "insertText": "beginRaw"
     },
     {
-        "label": "beginRecord",
+        "label": "beginRecord()",
         "kind": 2,
         "documentation": "",
         "insertText": "beginRecord"
     },
     {
-        "label": "createOutput",
+        "label": "createOutput()",
         "kind": 2,
         "documentation": "",
         "insertText": "createOutput"
     },
     {
-        "label": "createWriter",
+        "label": "createWriter()",
         "kind": 2,
         "documentation": "",
         "insertText": "createWriter"
     },
     {
-        "label": "endRaw",
+        "label": "endRaw()",
         "kind": 2,
         "documentation": "",
         "insertText": "endRaw"
     },
     {
-        "label": "endRecord",
+        "label": "endRecord()",
         "kind": 2,
         "documentation": "",
         "insertText": "endRecord"
     },
     {
-        "label": "saveBytes",
+        "label": "saveBytes()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveBytes"
     },
     {
-        "label": "saveJSONArray",
+        "label": "saveJSONArray()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveJSONArray"
     },
     {
-        "label": "saveJSONObject",
+        "label": "saveJSONObject()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveJSONObject"
     },
     {
-        "label": "saveStream",
+        "label": "saveStream()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveStream"
     },
     {
-        "label": "saveStrings",
+        "label": "saveStrings()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveStrings"
     },
     {
-        "label": "saveTable",
+        "label": "saveTable()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveTable"
     },
     {
-        "label": "saveXML",
+        "label": "saveXML()",
         "kind": 2,
         "documentation": "",
         "insertText": "saveXML"
     },
     {
-        "label": "selectOutput",
+        "label": "selectOutput()",
         "kind": 2,
         "documentation": "",
         "insertText": "selectOutput"
     },
     {
-        "label": "applyMatrix",
+        "label": "applyMatrix()",
         "kind": 2,
         "documentation": "",
         "insertText": "applyMatrix"
     },
     {
-        "label": "popMatrix",
+        "label": "popMatrix()",
         "kind": 2,
         "documentation": "",
         "insertText": "popMatrix"
     },
     {
-        "label": "printMatrix",
+        "label": "printMatrix()",
         "kind": 2,
         "documentation": "",
         "insertText": "printMatrix"
     },
     {
-        "label": "pushMatrix",
+        "label": "pushMatrix()",
         "kind": 2,
         "documentation": "",
         "insertText": "pushMatrix"
     },
     {
-        "label": "resetMatrix",
+        "label": "resetMatrix()",
         "kind": 2,
         "documentation": "",
         "insertText": "resetMatrix"
     },
     {
-        "label": "rotate",
+        "label": "rotate()",
         "kind": 2,
         "documentation": "",
         "insertText": "rotate"
     },
     {
-        "label": "rotateX",
+        "label": "rotateX()",
         "kind": 2,
         "documentation": "",
         "insertText": "rotateX"
     },
     {
-        "label": "rotateY",
+        "label": "rotateY()",
         "kind": 2,
         "documentation": "",
         "insertText": "rotateY"
     },
     {
-        "label": "rotateZ",
+        "label": "rotateZ()",
         "kind": 2,
         "documentation": "",
         "insertText": "rotateZ"
     },
     {
-        "label": "scale",
+        "label": "scale()",
         "kind": 2,
         "documentation": "",
         "insertText": "scale"
     },
     {
-        "label": "shearX",
+        "label": "shearX()",
         "kind": 2,
         "documentation": "",
         "insertText": "shearX"
     },
     {
-        "label": "shearY",
+        "label": "shearY()",
         "kind": 2,
         "documentation": "",
         "insertText": "shearY"
     },
     {
-        "label": "translate",
+        "label": "translate()",
         "kind": 2,
         "documentation": "",
         "insertText": "translate"
     },
     {
-        "label": "ambientLight",
+        "label": "ambientLight()",
         "kind": 2,
         "documentation": "",
         "insertText": "ambientLight"
     },
     {
-        "label": "directionalLight",
+        "label": "directionalLight()",
         "kind": 2,
         "documentation": "",
         "insertText": "directionalLight"
     },
     {
-        "label": "lightFalloff",
+        "label": "lightFalloff()",
         "kind": 2,
         "documentation": "",
         "insertText": "lightFalloff"
     },
     {
-        "label": "lights",
+        "label": "lights()",
         "kind": 2,
         "documentation": "",
         "insertText": "lights"
     },
     {
-        "label": "lightSpecular",
+        "label": "lightSpecular()",
         "kind": 2,
         "documentation": "",
         "insertText": "lightSpecular"
     },
     {
-        "label": "noLights",
+        "label": "noLights()",
         "kind": 2,
         "documentation": "",
         "insertText": "noLights"
     },
     {
-        "label": "normal",
+        "label": "normal()",
         "kind": 2,
         "documentation": "",
         "insertText": "normal"
     },
     {
-        "label": "pointLight",
+        "label": "pointLight()",
         "kind": 2,
         "documentation": "",
         "insertText": "pointLight"
     },
     {
-        "label": "spotLight",
+        "label": "spotLight()",
         "kind": 2,
         "documentation": "",
         "insertText": "spotLight"
     },
     {
-        "label": "beginCamera",
+        "label": "beginCamera()",
         "kind": 2,
         "documentation": "",
         "insertText": "beginCamera"
     },
     {
-        "label": "camera",
+        "label": "camera()",
         "kind": 2,
         "documentation": "",
         "insertText": "camera"
     },
     {
-        "label": "endCamera",
+        "label": "endCamera()",
         "kind": 2,
         "documentation": "",
         "insertText": "endCamera"
     },
     {
-        "label": "frustum",
+        "label": "frustum()",
         "kind": 2,
         "documentation": "",
         "insertText": "frustum"
     },
     {
-        "label": "ortho",
+        "label": "ortho()",
         "kind": 2,
         "documentation": "",
         "insertText": "ortho"
     },
     {
-        "label": "perspective",
+        "label": "perspective()",
         "kind": 2,
         "documentation": "",
         "insertText": "perspective"
     },
     {
-        "label": "printCamera",
+        "label": "printCamera()",
         "kind": 2,
         "documentation": "",
         "insertText": "printCamera"
     },
     {
-        "label": "printProjection",
+        "label": "printProjection()",
         "kind": 2,
         "documentation": "",
         "insertText": "printProjection"
     },
     {
-        "label": "modelX",
+        "label": "modelX()",
         "kind": 2,
         "documentation": "",
         "insertText": "modelX"
     },
     {
-        "label": "modelY",
+        "label": "modelY()",
         "kind": 2,
         "documentation": "",
         "insertText": "modelY"
     },
     {
-        "label": "modelZ",
+        "label": "modelZ()",
         "kind": 2,
         "documentation": "",
         "insertText": "modelZ"
     },
     {
-        "label": "screenX",
+        "label": "screenX()",
         "kind": 2,
         "documentation": "",
         "insertText": "screenX"
     },
     {
-        "label": "screenY",
+        "label": "screenY()",
         "kind": 2,
         "documentation": "",
         "insertText": "screenY"
     },
     {
-        "label": "screenZ",
+        "label": "screenZ()",
         "kind": 2,
         "documentation": "",
         "insertText": "screenZ"
     },
     {
-        "label": "ambient",
+        "label": "ambient()",
         "kind": 2,
         "documentation": "",
         "insertText": "ambient"
     },
     {
-        "label": "emissive",
+        "label": "emissive()",
         "kind": 2,
         "documentation": "",
         "insertText": "emissive"
     },
     {
-        "label": "shininess",
+        "label": "shininess()",
         "kind": 2,
         "documentation": "",
         "insertText": "shininess"
     },
     {
-        "label": "specular",
+        "label": "specular()",
         "kind": 2,
         "documentation": "",
         "insertText": "specular"
     },
     {
-        "label": "background",
+        "label": "background()",
         "kind": 2,
         "documentation": "",
         "insertText": "background"
     },
     {
-        "label": "clear",
+        "label": "clear()",
         "kind": 2,
         "documentation": "",
         "insertText": "clear"
     },
     {
-        "label": "colorMode",
+        "label": "colorMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "colorMode"
     },
     {
-        "label": "fill",
+        "label": "fill()",
         "kind": 2,
         "documentation": "",
         "insertText": "fill"
     },
     {
-        "label": "noFill",
+        "label": "noFill()",
         "kind": 2,
         "documentation": "",
         "insertText": "noFill"
     },
     {
-        "label": "noStroke",
+        "label": "noStroke()",
         "kind": 2,
         "documentation": "",
         "insertText": "noStroke"
     },
     {
-        "label": "stroke",
+        "label": "stroke()",
         "kind": 2,
         "documentation": "",
         "insertText": "stroke"
     },
     {
-        "label": "alpha",
+        "label": "alpha()",
         "kind": 2,
         "documentation": "",
         "insertText": "alpha"
     },
     {
-        "label": "blue",
+        "label": "blue()",
         "kind": 2,
         "documentation": "",
         "insertText": "blue"
     },
     {
-        "label": "brightness",
+        "label": "brightness()",
         "kind": 2,
         "documentation": "",
         "insertText": "brightness"
     },
     {
-        "label": "color",
+        "label": "color()",
         "kind": 2,
         "documentation": "",
         "insertText": "color"
     },
     {
-        "label": "green",
+        "label": "green()",
         "kind": 2,
         "documentation": "",
         "insertText": "green"
     },
     {
-        "label": "hue",
+        "label": "hue()",
         "kind": 2,
         "documentation": "",
         "insertText": "hue"
     },
     {
-        "label": "lerpColor",
+        "label": "lerpColor()",
         "kind": 2,
         "documentation": "",
         "insertText": "lerpColor"
     },
     {
-        "label": "red",
+        "label": "red()",
         "kind": 2,
         "documentation": "",
         "insertText": "red"
     },
     {
-        "label": "saturation",
+        "label": "saturation()",
         "kind": 2,
         "documentation": "",
         "insertText": "saturation"
     },
     {
-        "label": "createImage",
+        "label": "createImage()",
         "kind": 2,
         "documentation": "",
         "insertText": "createImage"
     },
     {
-        "label": "image",
+        "label": "image()",
         "kind": 2,
         "documentation": "",
         "insertText": "image"
     },
     {
-        "label": "imageMode",
+        "label": "imageMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "imageMode"
     },
     {
-        "label": "loadImage",
+        "label": "loadImage()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadImage"
     },
     {
-        "label": "noTint",
+        "label": "noTint()",
         "kind": 2,
         "documentation": "",
         "insertText": "noTint"
     },
     {
-        "label": "requestImage",
+        "label": "requestImage()",
         "kind": 2,
         "documentation": "",
         "insertText": "requestImage"
     },
     {
-        "label": "tint",
+        "label": "tint()",
         "kind": 2,
         "documentation": "",
         "insertText": "tint"
     },
     {
-        "label": "texture",
+        "label": "texture()",
         "kind": 2,
         "documentation": "",
         "insertText": "texture"
     },
     {
-        "label": "textureMode",
+        "label": "textureMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "textureMode"
     },
     {
-        "label": "textureWrap",
+        "label": "textureWrap()",
         "kind": 2,
         "documentation": "",
         "insertText": "textureWrap"
     },
     {
-        "label": "blend",
+        "label": "blend()",
         "kind": 2,
         "documentation": "",
         "insertText": "blend"
     },
     {
-        "label": "copy",
+        "label": "copy()",
         "kind": 2,
         "documentation": "",
         "insertText": "copy"
     },
     {
-        "label": "filter",
+        "label": "filter()",
         "kind": 2,
         "documentation": "",
         "insertText": "filter"
     },
     {
-        "label": "get",
+        "label": "get()",
         "kind": 2,
         "documentation": "",
         "insertText": "get"
     },
     {
-        "label": "loadPixels",
+        "label": "loadPixels()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadPixels"
     },
     {
-        "label": "set",
+        "label": "set()",
         "kind": 2,
         "documentation": "",
         "insertText": "set"
     },
     {
-        "label": "updatePixels",
+        "label": "updatePixels()",
         "kind": 2,
         "documentation": "",
         "insertText": "updatePixels"
     },
     {
-        "label": "blendMode",
+        "label": "blendMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "blendMode"
     },
     {
-        "label": "clip",
+        "label": "clip()",
         "kind": 2,
         "documentation": "",
         "insertText": "clip"
     },
     {
-        "label": "createGraphics",
+        "label": "createGraphics()",
         "kind": 2,
         "documentation": "",
         "insertText": "createGraphics"
     },
     {
-        "label": "noClip",
+        "label": "noClip()",
         "kind": 2,
         "documentation": "",
         "insertText": "noClip"
     },
     {
-        "label": "loadShader",
+        "label": "loadShader()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadShader"
     },
     {
-        "label": "resetShader",
+        "label": "resetShader()",
         "kind": 2,
         "documentation": "",
         "insertText": "resetShader"
     },
     {
-        "label": "shader",
+        "label": "shader()",
         "kind": 2,
         "documentation": "",
         "insertText": "shader"
     },
     {
-        "label": "createFont",
+        "label": "createFont()",
         "kind": 2,
         "documentation": "",
         "insertText": "createFont"
     },
     {
-        "label": "loadFont",
+        "label": "loadFont()",
         "kind": 2,
         "documentation": "",
         "insertText": "loadFont"
     },
     {
-        "label": "text",
+        "label": "text()",
         "kind": 2,
         "documentation": "",
         "insertText": "text"
     },
     {
-        "label": "textFont",
+        "label": "textFont()",
         "kind": 2,
         "documentation": "",
         "insertText": "textFont"
     },
     {
-        "label": "textAlign",
+        "label": "textAlign()",
         "kind": 2,
         "documentation": "",
         "insertText": "textAlign"
     },
     {
-        "label": "textLeading",
+        "label": "textLeading()",
         "kind": 2,
         "documentation": "",
         "insertText": "textLeading"
     },
     {
-        "label": "textMode",
+        "label": "textMode()",
         "kind": 2,
         "documentation": "",
         "insertText": "textMode"
     },
     {
-        "label": "textSize",
+        "label": "textSize()",
         "kind": 2,
         "documentation": "",
         "insertText": "textSize"
     },
     {
-        "label": "textWidth",
+        "label": "textWidth()",
         "kind": 2,
         "documentation": "",
         "insertText": "textWidth"
     },
     {
-        "label": "textAscent",
+        "label": "textAscent()",
         "kind": 2,
         "documentation": "",
         "insertText": "textAscent"
     },
     {
-        "label": "textDescent",
+        "label": "textDescent()",
         "kind": 2,
         "documentation": "",
         "insertText": "textDescent"
     },
     {
-        "label": "abs",
+        "label": "abs()",
         "kind": 2,
         "documentation": "",
         "insertText": "abs"
     },
     {
-        "label": "ceil",
+        "label": "ceil()",
         "kind": 2,
         "documentation": "",
         "insertText": "ceil"
     },
     {
-        "label": "constrain",
+        "label": "constrain()",
         "kind": 2,
         "documentation": "",
         "insertText": "constrain"
     },
     {
-        "label": "dist",
+        "label": "dist()",
         "kind": 2,
         "documentation": "",
         "insertText": "dist"
     },
     {
-        "label": "exp",
+        "label": "exp()",
         "kind": 2,
         "documentation": "",
         "insertText": "exp"
     },
     {
-        "label": "floor",
+        "label": "floor()",
         "kind": 2,
         "documentation": "",
         "insertText": "floor"
     },
     {
-        "label": "lerp",
+        "label": "lerp()",
         "kind": 2,
         "documentation": "",
         "insertText": "lerp"
     },
     {
-        "label": "log",
+        "label": "log()",
         "kind": 2,
         "documentation": "",
         "insertText": "log"
     },
     {
-        "label": "mag",
+        "label": "mag()",
         "kind": 2,
         "documentation": "",
         "insertText": "mag"
     },
     {
-        "label": "map",
+        "label": "map()",
         "kind": 2,
         "documentation": "",
         "insertText": "map"
     },
     {
-        "label": "max",
+        "label": "max()",
         "kind": 2,
         "documentation": "",
         "insertText": "max"
     },
     {
-        "label": "min",
+        "label": "min()",
         "kind": 2,
         "documentation": "",
         "insertText": "min"
     },
     {
-        "label": "norm",
+        "label": "norm()",
         "kind": 2,
         "documentation": "",
         "insertText": "norm"
     },
     {
-        "label": "pow",
+        "label": "pow()",
         "kind": 2,
         "documentation": "",
         "insertText": "pow"
     },
     {
-        "label": "round",
+        "label": "round()",
         "kind": 2,
         "documentation": "",
         "insertText": "round"
     },
     {
-        "label": "sq",
+        "label": "sq()",
         "kind": 2,
         "documentation": "",
         "insertText": "sq"
     },
     {
-        "label": "sqrt",
+        "label": "sqrt()",
         "kind": 2,
         "documentation": "",
         "insertText": "sqrt"
     },
     {
-        "label": "acos",
+        "label": "acos()",
         "kind": 2,
         "documentation": "",
         "insertText": "acos"
     },
     {
-        "label": "asin",
+        "label": "asin()",
         "kind": 2,
         "documentation": "",
         "insertText": "asin"
     },
     {
-        "label": "atan",
+        "label": "atan()",
         "kind": 2,
         "documentation": "",
         "insertText": "atan"
     },
     {
-        "label": "atan2",
+        "label": "atan2()",
         "kind": 2,
         "documentation": "",
         "insertText": "atan2"
     },
     {
-        "label": "cos",
+        "label": "cos()",
         "kind": 2,
         "documentation": "",
         "insertText": "cos"
     },
     {
-        "label": "degrees",
+        "label": "degrees()",
         "kind": 2,
         "documentation": "",
         "insertText": "degrees"
     },
     {
-        "label": "radians",
+        "label": "radians()",
         "kind": 2,
         "documentation": "",
         "insertText": "radians"
     },
     {
-        "label": "sin",
+        "label": "sin()",
         "kind": 2,
         "documentation": "",
         "insertText": "sin"
     },
     {
-        "label": "tan",
+        "label": "tan()",
         "kind": 2,
         "documentation": "",
         "insertText": "tan"
     },
     {
-        "label": "noise",
+        "label": "noise()",
         "kind": 2,
         "documentation": "",
         "insertText": "noise"
     },
     {
-        "label": "noiseDetail",
+        "label": "noiseDetail()",
         "kind": 2,
         "documentation": "",
         "insertText": "noiseDetail"
     },
     {
-        "label": "noiseSeed",
+        "label": "noiseSeed()",
         "kind": 2,
         "documentation": "",
         "insertText": "noiseSeed"
     },
     {
-        "label": "random",
+        "label": "random()",
         "kind": 2,
         "documentation": "",
         "insertText": "random"
     },
     {
-        "label": "randomGaussian",
+        "label": "randomGaussian()",
         "kind": 2,
         "documentation": "",
         "insertText": "randomGaussian"
     },
     {
-        "label": "randomSeed",
+        "label": "randomSeed()",
         "kind": 2,
         "documentation": "",
         "insertText": "randomSeed"

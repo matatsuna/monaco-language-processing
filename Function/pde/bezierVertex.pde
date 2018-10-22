@@ -1,0 +1,1 @@
+bezierVertex (${0});

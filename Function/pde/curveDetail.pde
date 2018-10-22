@@ -1,0 +1,1 @@
+curveDetail (${0});
