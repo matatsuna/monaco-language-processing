@@ -1,0 +1,134 @@
+[
+    {
+        "label": "catch()",
+        "kind": 2,
+        "documentation": "catch",
+        "insertText": "catch"
+    },
+    {
+        "label": "draw()",
+        "kind": 2,
+        "documentation": "ドロー",
+        "insertText": "draw"
+    },
+    {
+        "label": "exit()",
+        "kind": 2,
+        "documentation": "終了",
+        "insertText": "exit"
+    },
+    {
+        "label": "loop()",
+        "kind": 2,
+        "documentation": "ループ",
+        "insertText": "loop"
+    },
+    {
+        "label": "noLoop()",
+        "kind": 2,
+        "documentation": "ノーループ",
+        "insertText": "noLoop"
+    },
+    {
+        "label": "popStyle()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "popStyle"
+    },
+    {
+        "label": "pushStyle()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "pushStyle"
+    },
+    {
+        "label": "redraw()",
+        "kind": 2,
+        "documentation": "再描画",
+        "insertText": "redraw"
+    },
+    {
+        "label": "setup()",
+        "kind": 2,
+        "documentation": "セットアップ",
+        "insertText": "setup"
+    },
+    {
+        "label": "thread()",
+        "kind": 2,
+        "documentation": "スレッド",
+        "insertText": "thread"
+    },
+    {
+        "label": "cursor()",
+        "kind": 2,
+        "documentation": "カーソル",
+        "insertText": "cursor"
+    },
+    {
+        "label": "thread()",
+        "kind": 2,
+        "documentation": "スレッド",
+        "insertText": "thread"
+    },
+    {
+        "label": "delay()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "delay"
+    },
+    {
+        "label": "displayDensity()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "displayDensity"
+    },
+    {
+        "label": "frameRate()",
+        "kind": 2,
+        "documentation": "フレームレート",
+        "insertText": "frameRate"
+    },
+    {
+        "label": "fullScreen()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "fullScreen"
+    },
+    {
+        "label": "noCursor()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "noCursor"
+    },
+    {
+        "label": "noSmooth()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "displayDensity"
+    },
+    {
+        "label": "pixelDensity()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "pixelDensity"
+    },
+    {
+        "label": "settings()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "settings"
+    },
+    {
+        "label": "size()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "size"
+    },
+    {
+        "label": "smooth()",
+        "kind": 2,
+        "documentation": "",
+        "insertText": "smooth"
+    }
+]

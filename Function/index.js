@@ -1,17 +1,10 @@
 import fs from 'fs';
 import path from 'path';
+import funcjson from './func.json';
 
 class Function {
     constructor() {
-        this.FunctionKind = 2;
-        this.Function = [
-            {
-                "label": "setup",
-                "kind": this.FunctionKind,
-                "documentation": "文字列",
-                "insertText": "for"
-            }
-        ];
+        this.Function = funcjson;
     }
 
     async setup() {
@@ -23,7 +16,9 @@ class Function {
         this.Function = this.Function.map((block) => {
             const file = block.insertText;
             const text = pdeData[file];
-            block.insertText = text;
+            block.insertText = {
+                value: text
+            };
             return block;
         });
         return this.Function;
