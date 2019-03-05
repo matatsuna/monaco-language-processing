@@ -27,7 +27,7 @@ class Function {
     getPdeFiles() {
         return new Promise((resolve) => {
             try {
-                fs.readdir("Function/pde", (async (err, files) => {
+                fs.readdir("p5Function/pde", (async (err, files) => {
                     if (err) throw err;
                     files = files.filter((file) => {
                         return /.pde$/.test(file)

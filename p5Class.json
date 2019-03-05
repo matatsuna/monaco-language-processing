@@ -1,0 +1,177 @@
+[
+    {
+        "label": "String",
+        "documentation": "文字列",
+        "insertText": "String "
+    },
+    {
+        "label": "char",
+        "documentation": "文字",
+        "insertText": "char "
+    },
+    {
+        "label": "int",
+        "documentation": "整数",
+        "insertText": "int "
+    },
+    {
+        "label": "float",
+        "documentation": "小数",
+        "insertText": "mouseX "
+    },
+    {
+        "label": "double",
+        "documentation": "少数",
+        "insertText": "double "
+    },
+    {
+        "label": "long",
+        "documentation": "少数",
+        "insertText": "long "
+    },
+    {
+        "label": "byte",
+        "documentation": "バイト",
+        "insertText": "byte "
+    },
+    {
+        "label": "boolean",
+        "documentation": "真偽値",
+        "insertText": "boolean "
+    },
+    {
+        "label": "void",
+        "documentation": "",
+        "insertText": "void "
+    },
+    {
+        "label": "ArrayList",
+        "documentation": "",
+        "insertText": "ArrayList "
+    },
+    {
+        "label": "DoubleDict",
+        "documentation": "",
+        "insertText": "DoubleDict "
+    },
+    {
+        "label": "DoubleList",
+        "documentation": "",
+        "insertText": "DoubleList "
+    },
+    {
+        "label": "FloatDict",
+        "documentation": "",
+        "insertText": "FloatDict "
+    },
+    {
+        "label": "FloatList",
+        "documentation": "",
+        "insertText": "FloatList "
+    },
+    {
+        "label": "HashMap",
+        "documentation": "",
+        "insertText": "HashMap "
+    },
+    {
+        "label": "IntDict",
+        "documentation": "",
+        "insertText": "IntDict "
+    },
+    {
+        "label": "IntList",
+        "documentation": "",
+        "insertText": "IntList "
+    },
+    {
+        "label": "JSONArray",
+        "documentation": "",
+        "insertText": "JSONArray "
+    },
+    {
+        "label": "JSONObject",
+        "documentation": "",
+        "insertText": "JSONObject "
+    },
+    {
+        "label": "LongDict",
+        "documentation": "",
+        "insertText": "LongDict "
+    },
+    {
+        "label": "LongList",
+        "documentation": "",
+        "insertText": "LongList "
+    },
+    {
+        "label": "Object",
+        "documentation": "",
+        "insertText": "Object "
+    },
+    {
+        "label": "StringDict",
+        "documentation": "",
+        "insertText": "StringDict "
+    },
+    {
+        "label": "StringList",
+        "documentation": "",
+        "insertText": "StringList "
+    },
+    {
+        "label": "Table",
+        "documentation": "",
+        "insertText": "Table "
+    },
+    {
+        "label": "TableRow",
+        "documentation": "",
+        "insertText": "TableRow "
+    },
+    {
+        "label": "XML",
+        "documentation": "",
+        "insertText": "XML "
+    },
+    {
+        "label": "PVector",
+        "documentation": "",
+        "insertText": "PVector "
+    },
+    {
+        "label": "PFont",
+        "documentation": "",
+        "insertText": "PFont "
+    },
+    {
+        "label": "PGraphics",
+        "documentation": "",
+        "insertText": "PGraphics "
+    },
+    {
+        "label": "PShader",
+        "documentation": "",
+        "insertText": "PShader "
+    },
+    {
+        "label": "PImage",
+        "documentation": "",
+        "insertText": "PImage "
+    },
+    {
+        "label": "color",
+        "documentation": "",
+        "insertText": "color "
+    },
+    {
+        "label": "PShape",
+        "documentation": "",
+        "insertText": "PShape "
+    },
+    {
+        "label": "BufferedReader",
+        "documentation": "",
+        "insertText": "BufferedReader "
+    }
+]
