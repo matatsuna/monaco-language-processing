@@ -1,14 +1,14 @@
 # monaco-language-processing
 
-Microsoftが開発している[monaco](https://github.com/Microsoft/monaco-editor) のprocessing language定義を作ろうしたもの
+Microsoftが開発している[monaco](https://github.com/Microsoft/monaco-editor) のProcessing の補完(suggestion/completion)を作ろうしたもの
 
 ## 注意
 
-[monaco-languages](https://github.com/Microsoft/monaco-languages)に対応したプロジェクトではありません。
+[monaco-languages](https://github.com/Microsoft/monaco-languages)に対応したプロジェクトでは **ありません** 。
 
-monacoの構文定義である[monarch](https://microsoft.github.io/monaco-editor/monarch.html)にかませるファイルです。
+monacoの構文定義である[monarch](https://microsoft.github.io/monaco-editor/monarch.html)には[javaのmonarch](https://github.com/Microsoft/monaco-editor/blob/master/website/monarch.html#L507)を指定しています。
 
-[javaのmonarch](https://github.com/Microsoft/monaco-editor/blob/master/website/monarch.html#L507)を元に足りない関数を`monaco.languages.registerCompletionItemProvider()`で判定します。
+`monaco.languages.registerCompletionItemProvider()`で用いる補完(suggestion/completion)の定義をjsonファイルで行っています。
 
 ## 使い方
 
@@ -61,4 +61,4 @@ monacoの構文定義である[monarch](https://microsoft.github.io/monaco-edito
 
 - p5Function/pdeの中に関数が取りうる引数の数など
 - `p5Function/func.json` , `p5Class.json` , `p5Value.json` の中 `documantation` に関数の説明
-- 記法は[Monarch Documentaion](https://microsoft.github.io/monaco-editor/monarch.html)を参照
+- 記法はAPIリファレンスの[monaco.languages.CompletionItem](https://microsoft.github.io/monaco-editor/api/interfaces/monaco.languages.completionitem.html)を参照
