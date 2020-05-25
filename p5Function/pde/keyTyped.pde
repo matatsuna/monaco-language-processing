@@ -1,1 +1,3 @@
-keyTyped (${0});
+void keyTyped(){
+    ${0}
+}

@@ -1,3 +1,3 @@
-setup() {
+void setup() {
     ${0}
 }

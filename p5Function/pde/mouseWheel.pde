@@ -1,1 +1,3 @@
-mouseWheel (${0});
+void mouseWheel(){
+    ${0}
+}

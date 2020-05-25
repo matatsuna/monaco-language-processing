@@ -1,1 +1,3 @@
-mousePressed (${0});
+void mousePressed(){
+    ${0}
+}

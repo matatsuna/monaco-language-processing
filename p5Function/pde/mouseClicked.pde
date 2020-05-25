@@ -1,1 +1,3 @@
-mouseClicked (${0});
+void mouseClicked(){
+    ${0}
+}

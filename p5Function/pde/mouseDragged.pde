@@ -1,1 +1,3 @@
-mouseDragged (${0});
+void mouseDragged(){
+    ${0}
+}

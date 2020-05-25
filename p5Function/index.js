@@ -16,9 +16,10 @@ class Function {
         this.Function = this.Function.map((block) => {
             const file = block.insertText;
             const text = pdeData[file];
-            block.insertText = {
-                value: text
-            };
+            block.insertText = text;
+            if (/\$/.test(text)) {
+                block.insertTextRules = 4;
+            }
             return block;
         });
         return this.Function;

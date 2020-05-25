@@ -1,1 +1,3 @@
-mouseMoved (${0});
+void mouseMoved(){
+    ${0}
+}
