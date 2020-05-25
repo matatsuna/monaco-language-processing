@@ -1,3 +1,3 @@
-settings(){
+void settings(){
     ${0}
 }

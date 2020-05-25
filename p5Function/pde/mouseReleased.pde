@@ -1,1 +1,3 @@
-mouseReleased (${0});
+void mouseReleased(){
+    ${0}
+}

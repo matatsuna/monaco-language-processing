@@ -1,3 +1,3 @@
-draw(){
+void draw(){
     ${0}
 }

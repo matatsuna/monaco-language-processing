@@ -1,1 +1,3 @@
-keyPressed (${0});
+void keyPressed(){
+    ${0}
+}

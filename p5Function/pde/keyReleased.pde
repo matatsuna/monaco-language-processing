@@ -1,1 +1,3 @@
-keyReleased (${0});
+void keyReleased(){
+    ${0}
+}
