@@ -23,7 +23,14 @@ async function create() {
     });
 
     const json = p5class.concat(p5value).concat(p5f);
-    fs.writeFile('./processing-language.json', JSON.stringify(json));
+
+    fs.writeFile('./processing-language.json', JSON.stringify(json), (err) => {
+        if (err) {
+            console.warn(err);
+        } else {
+            console.log("write ok!");
+        }
+    });
 }
 
 create();
